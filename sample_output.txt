@@ -1,0 +1,18 @@
+AI CAREER NAVIGATOR — SAMPLE OUTPUT
+Author: Thallapaka Jagadiswar
+
+USER: I want to learn AI
+Track: AI / Machine Learning
+- Strengthen Python, NumPy and Pandas
+- Learn regression, classification and clustering
+- Practice with scikit-learn
+- Build a prediction or classification project
+Next step: choose one dataset and complete an end-to-end mini project.
+
+USER: How do I improve my resume?
+Track: Resume & Portfolio
+- Keep the resume concise and project-focused
+- Highlight technical skills with evidence
+- Add 1–2 meaningful projects with links
+- Use action verbs such as Built, Designed and Implemented
+Next step: update one project description today.
